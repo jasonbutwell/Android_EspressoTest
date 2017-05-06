@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EspressoTesting</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="textview_start_text">Hello world!</string>
+    <string name="textview_clicked_text">You clicked the button!</string>
+    <string name="button_label_text">Button</string>
+</resources>
